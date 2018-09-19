@@ -1,7 +1,3 @@
-Okay! So here's the sitch:
-I designed the game menu and the in-game menu to be very different visually (which sounded like a great idea at the time). I was trying to implement them as two separate menus - as opposed to how renpy usually uses one with a few if statements for the main menu - with two separate navigation screens that they draw from, but this proved to be a lot harder than I anticipated :sweat_smile: 
-I'm uploading thumbnails of what the menus are supposed to look like, and here's what my code looks like so far (throws up a lot of exceptions obviously):
-
 Let me know what you think! I honestly have no idea where this ranges on a scale of "really dumb and probably impossible" and "actually pretty easy but i don't know what mistakes i'm making" lol
 screen main_menu:
     tag menu
